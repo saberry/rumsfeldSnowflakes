@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517945125453.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CE6D9C86",
+    "lastKnownWriteTime" : 1518711862,
+    "last_content_update" : 1518711862338,
+    "path" : "~/R/projects/snowflakeMemos/convertParse.R",
+    "project_path" : "convertParse.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

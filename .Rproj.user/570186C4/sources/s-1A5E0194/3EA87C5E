@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518037207292.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3EA87C5E",
+    "lastKnownWriteTime" : 6568537835052204032,
+    "last_content_update" : 1518037207292,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B8DC5D03",
+        "caption" : "snowflakeDF",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=snowflakeDF&cache_key=B8DC5D03",
+        "displayedObservations" : "855",
+        "environment" : "",
+        "object" : "snowflakeDF",
+        "preview" : "0",
+        "totalObservations" : "855",
+        "variables" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
